@@ -1,0 +1,300 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/reillymiller/turing_work/mod2/setlist_hw/setlist_hw/config/environment.rb": {
+        "lines": [
+          null,
+          1,
+          null,
+          null,
+          1
+        ]
+      },
+      "/Users/reillymiller/turing_work/mod2/setlist_hw/setlist_hw/config/application.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/reillymiller/turing_work/mod2/setlist_hw/setlist_hw/config/boot.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1
+        ]
+      },
+      "/Users/reillymiller/turing_work/mod2/setlist_hw/setlist_hw/config/environments/test.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/reillymiller/turing_work/mod2/setlist_hw/setlist_hw/config/initializers/application_controller_renderer.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/reillymiller/turing_work/mod2/setlist_hw/setlist_hw/config/initializers/assets.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/reillymiller/turing_work/mod2/setlist_hw/setlist_hw/config/initializers/backtrace_silencers.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/reillymiller/turing_work/mod2/setlist_hw/setlist_hw/config/initializers/content_security_policy.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/reillymiller/turing_work/mod2/setlist_hw/setlist_hw/config/initializers/cookies_serializer.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          1
+        ]
+      },
+      "/Users/reillymiller/turing_work/mod2/setlist_hw/setlist_hw/config/initializers/filter_parameter_logging.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          1
+        ]
+      },
+      "/Users/reillymiller/turing_work/mod2/setlist_hw/setlist_hw/config/initializers/inflections.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/reillymiller/turing_work/mod2/setlist_hw/setlist_hw/config/initializers/mime_types.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/reillymiller/turing_work/mod2/setlist_hw/setlist_hw/config/initializers/wrap_parameters.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          2,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/reillymiller/turing_work/mod2/setlist_hw/setlist_hw/config/routes.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/reillymiller/turing_work/mod2/setlist_hw/setlist_hw/app/helpers/application_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/reillymiller/turing_work/mod2/setlist_hw/setlist_hw/app/models/artist.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/reillymiller/turing_work/mod2/setlist_hw/setlist_hw/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/reillymiller/turing_work/mod2/setlist_hw/setlist_hw/app/models/song.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/reillymiller/turing_work/mod2/setlist_hw/setlist_hw/app/controllers/songs_controller.rb": {
+        "lines": [
+          1,
+          1,
+          0,
+          null,
+          1,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/reillymiller/turing_work/mod2/setlist_hw/setlist_hw/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      }
+    },
+    "timestamp": 1679456983
+  }
+}
